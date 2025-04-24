@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|c:\\users\\vivek\\desktop\\angular 18 \u0026 asp .net project\\employeeportal\\migrations\\20241112153541_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2022D7-9678-4201-8FE1-D6330EDF0427}|EmployeePortal.csproj|solutionrelative:migrations\\20241112153541_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241112153541_Initial Setup.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Migrations\\20241112153541_Initial Setup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241112153541_Initial Setup.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Migrations\\20241112153541_Initial Setup.cs",
+              "RelativeToolTip": "Migrations\\20241112153541_Initial Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:35:41.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:54:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA4wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:37:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:55:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T11:55:26.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:47:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vivek\\Desktop\\Angular 18 \u0026 ASP .NET Project\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:38:29.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

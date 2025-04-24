@@ -1,0 +1,51 @@
+<div class="container">
+  <h2>Product Stock</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Item Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of stock">
+        <td>{{ item.item_name }}</td>
+        <td>{{ item.price_per_kg_or_packet }}</td>
+        <td>{{ item.quantity_in_kg_or_packet }}</td>
+        <td>
+          <button (click)="addItemToCart(item, 1)">Add 1</button> <!-- Adding 1 item as an example -->
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr />
+
+  <div class="update-stock">
+    <h3>Edit Product Quantity</h3>
+    <input [(ngModel)]="selectedItem" placeholder="Enter item name" class="form-control" />
+    <input [(ngModel)]="newQuantity" placeholder="Enter new quantity" type="number" class="form-control" />
+    <button (click)="updateQuantity()">Update Quantity</button>
+  </div>
+
+  <hr />
+
+  <div class="cart-summary">
+    <h3>Items in Cart</h3>
+    <ul>
+      <li *ngFor="let item of itemsInCart">
+        {{ item.name }} - {{ item.quantity }} x {{ item.price }} = {{ item.quantity * item.price }}
+      </li>
+    </ul>
+    <p>Total: {{ totalPrice }}</p>
+    <button (click)="generateBill()">Generate Bill</button>
+  </div>
+
+  <hr />
+
+  <div class="send-email">
+    <input [(ngModel)]="email" placeholder="Customer's Email" class="form-control" />
+    <button (click)="sendEmail()">Send Bill to Email</button>
+  </div>
+</div>

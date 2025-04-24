@@ -1,0 +1,21 @@
+/* Load a Google Font for the header */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/* Fancy Name Styling */
+.fancy-name {
+  font-family: 'Poppins', sans-serif; /* Use the custom font */
+  font-size: 4rem; /* Make the font size larger */
+  font-weight: 700; /* Bold text */
+  letter-spacing: 2px; /* Increase letter spacing for a cleaner look */
+  background: linear-gradient(45deg, #ff6f61, #ff914d, #ffbc5a); /* Gradient text */
+  -webkit-background-clip: text; /*Apply gradient to text */
+  background-clip: none;
+  color: transparent; /* Make the text color transparent so the gradient shows */
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), -3px -3px 5px rgba(0, 0, 0, 0.3); /* Add a soft shadow */
+  transition: transform 0.3s ease-in-out, text-shadow 0.3s ease-in-out; /* Smooth transition for hover effects */
+}
+
+.fancy-name:hover {
+  transform: scale(1.1); /* Slightly enlarge the text on hover */
+  text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5), -5px -5px 8px rgba(0, 0, 0, 0.5); /* Stronger shadow on hover */
+}
